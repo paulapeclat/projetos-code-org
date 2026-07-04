@@ -1,3 +1,5 @@
+**🇧🇷 Português** · [🇺🇸 English](README.en.md)
+
 # 🕹️ Projetos Code.org — Game Lab & App Lab
 
 > Projetos reais criados nas minhas aulas com o [Code.org](https://code.org) — com o código JavaScript aberto, o que cada um ensina e o link para você **remixar** e fazer a sua versão.

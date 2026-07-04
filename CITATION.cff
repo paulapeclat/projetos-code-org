@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se este material foi útil no seu trabalho ou pesquisa, cite-o assim:"
+title: "Projetos Code.org — Game Lab e App Lab usados em aulas"
+authors:
+  - family-names: Peclat
+    given-names: Paula
+    orcid: "https://orcid.org/0009-0008-6535-7090"
+type: software
+version: 1.0.0
+date-released: 2026-07-04
+repository-code: "https://github.com/paulapeclat/projetos-code-org"
+license: MIT
+keywords:
+  - code-org
+  - javascript
+  - gamelab
+  - applab
+  - educacao-midiatica
+abstract: >-
+  Projetos reais de Game Lab e App Lab criados em aulas, com código JavaScript aberto, guia pedagógico por projeto e perguntas de leitura crítica de mídia.
